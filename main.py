@@ -1,3 +1,4 @@
+from temperature_converter import celsius_to_fahrenheit
 
 
 def main():
